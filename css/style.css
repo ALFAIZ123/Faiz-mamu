@@ -286,9 +286,7 @@ a:hover {
     }
 
     .mini img {
-        width: 70px;
-        height: 100px;
-        margin-top: 80px;
+       display: none;
     }
 
     .hd {
